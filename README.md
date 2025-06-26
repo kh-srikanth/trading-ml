@@ -12,3 +12,6 @@ This project focuses on using historical stock market data and machine learning 
 
 - Stock list: [NSE NIFTY 500](https://archives.nseindia.com/content/indices/ind_nifty500list.csv)
 - Historical prices: [Yahoo Finance via yfinance](https://pypi.org/project/yfinance/)
+## CoLab link
+
+- python code: https://github.com/kh-srikanth/trading-ml/blob/main/notebooks/build_stock_dataset_top500.ipynb
